@@ -1,0 +1,1 @@
+[{"نام تیم":"پرسپولیس","کیت یا لوگو":"لوگو","لینک":"https://www.upsara.com/images/p306072_.png","لینک عکس":"https://www.upsara.com/images/p306072_.png"}]
